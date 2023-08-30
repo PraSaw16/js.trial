@@ -15,4 +15,5 @@ Prefer not to use var because of issue in block scope and functional scope
 // when you define variable without value then type will be undefined.
 
 console.log(accountID);
+console.log(accountEmail);
 console.table([accountID,accountEmail,accountPassword,accountState,accountBill]);
