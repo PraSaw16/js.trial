@@ -28,3 +28,15 @@ let isLoggedIn= ""
 console.log(typeof undefined );
 
 console.log(typeof null );
+
+const accountID =23423;  // you cant change Constant number 
+let accountEmail = "Prats@gha.com";  //
+var accountPassword ="55555";
+let accountCity = "pune";
+let accountState;
+
+console.log(accountID);
+console.log(accountEmail);
+console.table([accountEmail,accountID,accountCity,accountState]);
+
+
