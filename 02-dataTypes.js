@@ -39,4 +39,6 @@ console.log(accountID);
 console.log(accountEmail);
 console.table([accountEmail,accountID,accountCity,accountState]);
 
+console.log(typeof accountCity);
+
 
